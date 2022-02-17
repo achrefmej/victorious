@@ -1,0 +1,13 @@
+.backgroundColor{
+   -fx-background-color: linear-gradient(to bottom right, #162c41,#294d68, #2e5874, #1d3950,#162c41);
+}
+.search-container{
+   -fx-background-color: #fff;
+   -fx-background-radius: 500px;
+
+}
+.upgrade-button{
+   -fx-background-color: rgba (0,8,0,0);
+   -fx-border-color: #fff;
+   -fx-border-radius: 50;
+}
